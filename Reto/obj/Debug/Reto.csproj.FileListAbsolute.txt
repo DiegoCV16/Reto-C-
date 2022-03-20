@@ -1,0 +1,24 @@
+C:\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+C:\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.csproj.SuggestedBindingRedirects.cache
+C:\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
+C:\Ejemplo1\RetoC#\Reto\Reto\bin\Debug\Reto.exe.config
+C:\Ejemplo1\RetoC#\Reto\Reto\bin\Debug\Reto.exe
+C:\Ejemplo1\RetoC#\Reto\Reto\bin\Debug\Reto.pdb
+C:\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.exe
+C:\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.pdb
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\bin\Debug\Reto.exe.config
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\bin\Debug\Reto.exe
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\bin\Debug\Reto.pdb
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.csproj.SuggestedBindingRedirects.cache
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.exe
+E:\Semestre 4\Programacion orientada a objetos\Ejemplo1\RetoC#\Reto\Reto\obj\Debug\Reto.pdb
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\bin\Debug\Reto.exe.config
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\bin\Debug\Reto.exe
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\bin\Debug\Reto.pdb
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\obj\Debug\Reto.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\obj\Debug\Reto.exe
+C:\Users\diego\Source\Repos\reto_arraylist_linkedlist\Reto\obj\Debug\Reto.pdb
